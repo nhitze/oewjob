@@ -1,0 +1,14 @@
+{
+  "name": "OEW Job Page",
+  "description": "Landing Page für OEW Stellen",
+  "keywords": [
+  ],
+  "website": "https://oewjob.herokuapp.com/",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "Performance-M"
+    }
+  },
+  "image": "heroku/php"
+}
